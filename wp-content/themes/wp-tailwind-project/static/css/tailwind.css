@@ -1,0 +1,14 @@
+/*
+Theme Name: Webpack Site
+Text Domain: webpacksite
+Version: 1.0
+Description: One page and inner pages
+Tags: One page and inner pages, responsive
+Author: Franck Gallard
+Author URI: http://franckgallardnaika-web.ca/
+*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,19 @@
+{
+  "name": "webpacktheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss-cli": "^9.0.2",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "postcss static/css/tailwind.css -o style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
